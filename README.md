@@ -8,7 +8,9 @@ How to  run:
 5. Example output for 1) Add Item:
    
    ***Add a New Item to Inventory***
-   Enter Item Name: Hammer
+   Enter Item Name: Hammer 
+   Enter Unit of Quantity: 
+   Enter Username: Sam
    Enter Item Quantity (Whole Integer): 100
    ***Item Successfully added to Fylde Aero Inventory Management System***
 
